@@ -1,0 +1,9 @@
+A,	Blue
+A,	Red
+A,	Blue
+A,	Blue
+B,	Green
+B,	Purple
+B,	Purple
+B,	Green
+C,	Black
